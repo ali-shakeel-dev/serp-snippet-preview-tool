@@ -2,7 +2,7 @@
 
 A simple and responsive web tool to preview how your page's **meta title** and **meta description** will appear in Google search results — for both **desktop** and **mobile** views. Great for SEO professionals, content marketers, and developers optimizing content for search visibility.
 
-![SERP Snippet Preview Tool Screenshot](https://github.com/ali-shakeel-dev/serp-snippet-preview-tool/assets/your-screenshot.png)
+![SERP Snippet Preview Tool Screenshot](https://github.com/ali-shakeel-dev/serp-snippet-preview-tool/screenshot.png)
 
 ---
 
